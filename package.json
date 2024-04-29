@@ -2,7 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://aydjay12.github.io/FitClub",
+  "homepage": "https://aydjay12.github.io/Brainwave",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
